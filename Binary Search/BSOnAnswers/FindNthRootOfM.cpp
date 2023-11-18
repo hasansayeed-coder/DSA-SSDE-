@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
+
 #define ll long long;
 
 long long possible(int m, int mid, int n)
