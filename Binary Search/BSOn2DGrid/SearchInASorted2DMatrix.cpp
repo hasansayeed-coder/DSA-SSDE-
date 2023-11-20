@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-uisng namespace std;
+using namespace std;
 
 bool searchElement(vector<vector<int>> &MATRIX, int target)
 {
