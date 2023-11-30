@@ -3,7 +3,6 @@ using namespace std;
 
 int maxPoints(vector<int> &arr, int K)
 {
-
     int l = 0;
     int r = arr.size() - K;
 
